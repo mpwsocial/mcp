@@ -1,0 +1,1154 @@
+[
+  {
+    "method": "POST",
+    "path": "account/merchant/product/subscription/class",
+    "folder": "Account",
+    "name": "Class"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/product/subscription/class-product-type",
+    "folder": "Account",
+    "name": "Class Product Type"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/product/subscription/finalise",
+    "folder": "Account",
+    "name": "Finalise"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/product/subscription/history",
+    "folder": "Account",
+    "name": "History"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/product/subscription/initiate",
+    "folder": "Account",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/product/update",
+    "folder": "Account",
+    "name": "Update"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/product/view",
+    "folder": "Account",
+    "name": "View"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/resend-webhook",
+    "folder": "Account",
+    "name": "Resend Webhook"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/add",
+    "folder": "Account",
+    "name": "Add"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/logs",
+    "folder": "Account",
+    "name": "Logs"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/permission/add",
+    "folder": "Account",
+    "name": "Add"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/permission/remove",
+    "folder": "Account",
+    "name": "Remove"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/permission/update",
+    "folder": "Account",
+    "name": "Update"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/permission/view",
+    "folder": "Account",
+    "name": "View"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/remove",
+    "folder": "Account",
+    "name": "Remove"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/update",
+    "folder": "Account",
+    "name": "Update"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/team/view",
+    "folder": "Account",
+    "name": "View"
+  },
+  {
+    "method": "POST",
+    "path": "account/merchant/update-notification",
+    "folder": "Account",
+    "name": "Update Notification"
+  },
+  {
+    "method": "POST",
+    "path": "actions",
+    "folder": "Misc",
+    "name": "Actions"
+  },
+  {
+    "method": "POST",
+    "path": "authentication/connect",
+    "folder": "Authentication",
+    "name": "Connect"
+  },
+  {
+    "method": "POST",
+    "path": "authentication/initiate",
+    "folder": "Authentication",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "authentication/sign-out",
+    "folder": "Authentication",
+    "name": "Sign Out"
+  },
+  {
+    "method": "POST",
+    "path": "authentication/validate",
+    "folder": "Authentication",
+    "name": "validate"
+  },
+  {
+    "method": "POST",
+    "path": "card/close",
+    "folder": "Card",
+    "name": "Close"
+  },
+  {
+    "method": "POST",
+    "path": "card/create",
+    "folder": "Card",
+    "name": "Create"
+  },
+  {
+    "method": "POST",
+    "path": "card/details",
+    "folder": "Card",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "card/freeze",
+    "folder": "Card",
+    "name": "Freeze"
+  },
+  {
+    "method": "POST",
+    "path": "card/fund",
+    "folder": "Card",
+    "name": "Fund"
+  },
+  {
+    "method": "POST",
+    "path": "card/resubscribe",
+    "folder": "Card",
+    "name": "Resubscribe"
+  },
+  {
+    "method": "POST",
+    "path": "card/supported",
+    "folder": "Card",
+    "name": "Supported"
+  },
+  {
+    "method": "POST",
+    "path": "card/unfreeze",
+    "folder": "Card",
+    "name": "Unfreeze"
+  },
+  {
+    "method": "POST",
+    "path": "card/update-security-settings",
+    "folder": "Card",
+    "name": "Update Security Settings"
+  },
+  {
+    "method": "POST",
+    "path": "card/withdraw",
+    "folder": "Card",
+    "name": "Withdraw"
+  },
+  {
+    "method": "POST",
+    "path": "codes",
+    "folder": "Misc",
+    "name": "Codes"
+  },
+  {
+    "method": "POST",
+    "path": "countries",
+    "folder": "Misc",
+    "name": "Countries"
+  },
+  {
+    "method": "POST",
+    "path": "file-upload",
+    "folder": "Misc",
+    "name": "File Upload"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/storage/details",
+    "folder": "Omni Chain (Web3)",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/storage/upload",
+    "folder": "Omni Chain (Web3)",
+    "name": "Upload"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc1155/balance",
+    "folder": "Omni Chain (Web3)",
+    "name": "Balance"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc1155/burn",
+    "folder": "Omni Chain (Web3)",
+    "name": "Burn"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc1155/deploy",
+    "folder": "Omni Chain (Web3)",
+    "name": "Deploy"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc1155/mint",
+    "folder": "Omni Chain (Web3)",
+    "name": "Mint"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc1155/transactions",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transactions"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc1155/transfer",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transfer"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc20/balance",
+    "folder": "Omni Chain (Web3)",
+    "name": "Balance"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc20/burn",
+    "folder": "Omni Chain (Web3)",
+    "name": "Burn"
+  },
+  {
+    "method": "GET",
+    "path": "omnichain/tokenization/erc20/chains",
+    "folder": "Omni Chain (Web3)",
+    "name": "Chains"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc20/deploy",
+    "folder": "Omni Chain (Web3)",
+    "name": "Deploy"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc20/mint",
+    "folder": "Omni Chain (Web3)",
+    "name": "Mint"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc20/transactions",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transactions"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc20/transfer",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transfer"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc721/balance",
+    "folder": "Omni Chain (Web3)",
+    "name": "Balance"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc721/burn",
+    "folder": "Omni Chain (Web3)",
+    "name": "Burn"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc721/deploy",
+    "folder": "Omni Chain (Web3)",
+    "name": "Deploy"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc721/mint",
+    "folder": "Omni Chain (Web3)",
+    "name": "Mint"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc721/transactions",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transactions"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/erc721/transfer",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transfer"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/sep41/balance",
+    "folder": "Omni Chain (Web3)",
+    "name": "Balance"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/sep41/burn",
+    "folder": "Omni Chain (Web3)",
+    "name": "Burn"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/sep41/deploy",
+    "folder": "Omni Chain (Web3)",
+    "name": "Deploy"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/sep41/mint",
+    "folder": "Omni Chain (Web3)",
+    "name": "Mint"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/sep41/transactions",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transactions"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/tokenization/sep41/transfer",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transfer"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/balance",
+    "folder": "Omni Chain (Web3)",
+    "name": "Balance"
+  },
+  {
+    "method": "GET",
+    "path": "omnichain/wallet/evm/eoa/chains",
+    "folder": "Omni Chain (Web3)",
+    "name": "Chains"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/create-wallet",
+    "folder": "Omni Chain (Web3)",
+    "name": "Create Wallet"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/generate-address",
+    "folder": "Omni Chain (Web3)",
+    "name": "Generate Address"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/operations/broadcast-transaction",
+    "folder": "Omni Chain (Web3)",
+    "name": "Broadcast"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/operations/estimate-gas",
+    "folder": "Omni Chain (Web3)",
+    "name": "Estimate Gas"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/operations/sign-transaction",
+    "folder": "Omni Chain (Web3)",
+    "name": "Sign Transaction"
+  },
+  {
+    "method": "GET",
+    "path": "omnichain/wallet/evm/eoa/supported-stablecoin",
+    "folder": "Omni Chain (Web3)",
+    "name": "Supported Stablecoin"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/transactions",
+    "folder": "Omni Chain (Web3)",
+    "name": "View Transactions"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/transfer/native-token",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transfer (Native Tokens)"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/evm/eoa/transfer/stablecoin",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transfer (Stablecoin - Direct)"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/stellar/eoa/balance",
+    "folder": "Omni Chain (Web3)",
+    "name": "Balance"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/stellar/eoa/create-wallet",
+    "folder": "Omni Chain (Web3)",
+    "name": "Create Wallet"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/stellar/eoa/generate-address",
+    "folder": "Omni Chain (Web3)",
+    "name": "Generate Address"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/stellar/eoa/operations/create-trustline",
+    "folder": "Omni Chain (Web3)",
+    "name": "Create Trustline"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/stellar/eoa/operations/estimate-gas",
+    "folder": "Omni Chain (Web3)",
+    "name": "Estimate Gas"
+  },
+  {
+    "method": "GET",
+    "path": "omnichain/wallet/stellar/eoa/supported-stablecoin",
+    "folder": "Omni Chain (Web3)",
+    "name": "Supported Stablecoin"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/stellar/eoa/transactions",
+    "folder": "Omni Chain (Web3)",
+    "name": "View Transactions"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/stellar/eoa/transfer/native-token",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transfer (Native Tokens)"
+  },
+  {
+    "method": "POST",
+    "path": "omnichain/wallet/stellar/eoa/transfer/stablecoin",
+    "folder": "Omni Chain (Web3)",
+    "name": "Transfer (Stablecoin - Direct)"
+  },
+  {
+    "method": "POST",
+    "path": "payment-purpose",
+    "folder": "Misc",
+    "name": "Payment Purpose"
+  },
+  {
+    "method": "POST",
+    "path": "products",
+    "folder": "Misc",
+    "name": "Products"
+  },
+  {
+    "method": "POST",
+    "path": "simulation/card/spend",
+    "folder": "Simulation",
+    "name": "Spend"
+  },
+  {
+    "method": "POST",
+    "path": "simulation/collection/initiated-order",
+    "folder": "Simulation",
+    "name": "Initiated Order"
+  },
+  {
+    "method": "POST",
+    "path": "simulation/collection/static-virtual-account",
+    "folder": "Simulation",
+    "name": "Static Virtual Account"
+  },
+  {
+    "method": "POST",
+    "path": "simulation/collection/static-wallet-address",
+    "folder": "Simulation",
+    "name": "Static Wallet Address"
+  },
+  {
+    "method": "POST",
+    "path": "simulation/direct-debit/status",
+    "folder": "Simulation",
+    "name": "Status"
+  },
+  {
+    "method": "POST",
+    "path": "simulation/transfer/initiated-order",
+    "folder": "Simulation",
+    "name": "Transfer Order"
+  },
+  {
+    "method": "POST",
+    "path": "state-province-region",
+    "folder": "Misc",
+    "name": "State Province Region"
+  },
+  {
+    "method": "POST",
+    "path": "supported-currencies",
+    "folder": "Misc",
+    "name": "Supported Currencies"
+  },
+  {
+    "method": "POST",
+    "path": "user/account/business/create",
+    "folder": "User",
+    "name": "Create"
+  },
+  {
+    "method": "POST",
+    "path": "user/account/business/details",
+    "folder": "User",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "user/account/business/update",
+    "folder": "User",
+    "name": "Update"
+  },
+  {
+    "method": "POST",
+    "path": "user/account/individual/create",
+    "folder": "User",
+    "name": "Create"
+  },
+  {
+    "method": "POST",
+    "path": "user/account/individual/details",
+    "folder": "User",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "user/account/individual/update",
+    "folder": "User",
+    "name": "Update"
+  },
+  {
+    "method": "POST",
+    "path": "user/misc/business-industry-list",
+    "folder": "User",
+    "name": "Business Industry List"
+  },
+  {
+    "method": "GET",
+    "path": "user/misc/business-product-service-type",
+    "folder": "User",
+    "name": "Business Product & Service Type"
+  },
+  {
+    "method": "POST",
+    "path": "user/misc/business-registration-type",
+    "folder": "User",
+    "name": "Business Registration Type"
+  },
+  {
+    "method": "POST",
+    "path": "user/misc/business-trade-type",
+    "folder": "User",
+    "name": "Business Trade Type"
+  },
+  {
+    "method": "POST",
+    "path": "user/misc/countries",
+    "folder": "User",
+    "name": "Countries"
+  },
+  {
+    "method": "POST",
+    "path": "user/misc/job-types",
+    "folder": "User",
+    "name": "Job Types"
+  },
+  {
+    "method": "GET",
+    "path": "user/misc/source-of-funds-type",
+    "folder": "User",
+    "name": "Source of Funds Type"
+  },
+  {
+    "method": "POST",
+    "path": "user/subscription/class",
+    "folder": "User",
+    "name": "Class"
+  },
+  {
+    "method": "POST",
+    "path": "user/subscription/initiate",
+    "folder": "User",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "user/subscription/products",
+    "folder": "User",
+    "name": "Products"
+  },
+  {
+    "method": "POST",
+    "path": "user/subscription/requery",
+    "folder": "User",
+    "name": "Requery"
+  },
+  {
+    "method": "POST",
+    "path": "user/subscription/status",
+    "folder": "User",
+    "name": "Status"
+  },
+  {
+    "method": "POST",
+    "path": "user/subscription/transactions",
+    "folder": "User",
+    "name": "Transactions"
+  },
+  {
+    "method": "POST",
+    "path": "user/verification/bulk-process",
+    "folder": "User",
+    "name": "Bulk Process : Individual"
+  },
+  {
+    "method": "POST",
+    "path": "user/verification/requirement",
+    "folder": "User",
+    "name": "Requirements"
+  },
+  {
+    "method": "POST",
+    "path": "user/verification/single-process",
+    "folder": "User",
+    "name": "Single Process"
+  },
+  {
+    "method": "POST",
+    "path": "verification/lookup",
+    "folder": "Verification",
+    "name": "Institutions"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/add",
+    "folder": "Wallet",
+    "name": "Add"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/countries",
+    "folder": "Wallet",
+    "name": "Countries"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/details",
+    "folder": "Wallet",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/institutions",
+    "folder": "Wallet",
+    "name": "Institutions"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/requirements",
+    "folder": "Wallet",
+    "name": "Requirements"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/resolve",
+    "folder": "Wallet",
+    "name": "Resolve"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/sample-account",
+    "folder": "Wallet",
+    "name": "Sample Account"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/supported-currencies",
+    "folder": "Wallet",
+    "name": "Supported  Currencies"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/bank/supported-route-type",
+    "folder": "Wallet",
+    "name": "Supported  Route Type"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/mobile-money/add",
+    "folder": "Wallet",
+    "name": "Add"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/mobile-money/details",
+    "folder": "Wallet",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/mobile-money/sample-account",
+    "folder": "Wallet",
+    "name": "Sample Account"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/mobile-money/supported-countries",
+    "folder": "Wallet",
+    "name": "Supported  Countries"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/mobile-money/supported-currencies",
+    "folder": "Wallet",
+    "name": "Supported Currencies"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/mobile-money/supported-networks",
+    "folder": "Wallet",
+    "name": "Supported  Networks"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/wallet-address/add",
+    "folder": "Wallet",
+    "name": "Add"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/transfer-recipient/wallet-address/details",
+    "folder": "Wallet",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/virtual-account/details",
+    "folder": "Wallet",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/virtual-account/generate",
+    "folder": "Wallet",
+    "name": "Generate Account"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/virtual-account/resubscribe",
+    "folder": "Wallet",
+    "name": "Resubscribe"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/virtual-account/supported-currencies",
+    "folder": "Wallet",
+    "name": "Supported Currencies"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/virtual-account/supported-institutions",
+    "folder": "Wallet",
+    "name": "Supported Institutions"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/wallet-address/details",
+    "folder": "Wallet",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/wallet-address/generate",
+    "folder": "Wallet",
+    "name": "Generate Address"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/channel/wallet-address/supported-tokens",
+    "folder": "Wallet",
+    "name": "Supported Token"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/calculator",
+    "folder": "Wallet",
+    "name": "Calculator"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/design-options",
+    "folder": "Wallet",
+    "name": "Design Options"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/info",
+    "folder": "Wallet",
+    "name": "Info & Status"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/initiate",
+    "folder": "Wallet",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/authorize-3ds",
+    "folder": "Wallet",
+    "name": "Authorize (3DS)"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/authorize-otp",
+    "folder": "Wallet",
+    "name": "Authorize (OTP)"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/charge",
+    "folder": "Wallet",
+    "name": "Charge"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/confirmation",
+    "folder": "Wallet",
+    "name": "Confirmation"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/create",
+    "folder": "Wallet",
+    "name": "Create"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/details",
+    "folder": "Wallet",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/link",
+    "folder": "Wallet",
+    "name": "Link"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/resend-otp",
+    "folder": "Wallet",
+    "name": "Resend OTP"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/supported-countries",
+    "folder": "Wallet",
+    "name": "Supported Countries"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/supported-currencies",
+    "folder": "Wallet",
+    "name": "Supported Currencies"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/supported-institutions",
+    "folder": "Wallet",
+    "name": "Supported Institutions"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/supported-networks",
+    "folder": "Wallet",
+    "name": "Supported Networks"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/method/terminate",
+    "folder": "Wallet",
+    "name": "Terminate"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/collection/supported-methods",
+    "folder": "Wallet",
+    "name": "Supported Methods"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/create",
+    "folder": "Wallet",
+    "name": "Create"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/details",
+    "folder": "Wallet",
+    "name": "Details"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotocrypto/external/bridge/usdc/fees",
+    "folder": "Wallet",
+    "name": "Fees"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotocrypto/external/bridge/usdc/initiate",
+    "folder": "Wallet",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotocrypto/external/bridge/usdc/status",
+    "folder": "Wallet",
+    "name": "Status"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotocrypto/external/bridge/usdc/supported-chains",
+    "folder": "Wallet",
+    "name": "Supported Chains"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotocrypto/external/swap/fees",
+    "folder": "Wallet",
+    "name": "Fees"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotocrypto/external/swap/initiate",
+    "folder": "Wallet",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotocrypto/external/swap/status",
+    "folder": "Wallet",
+    "name": "Status"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotocrypto/external/swap/supported-pairs",
+    "folder": "Wallet",
+    "name": "Supported Pairs"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotofiat/external/fees",
+    "folder": "Wallet",
+    "name": "Fees"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotofiat/external/initiate",
+    "folder": "Wallet",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/cryptotofiat/external/supported-pairs",
+    "folder": "Wallet",
+    "name": "Supported Pairs"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/fiattocrypto/wallet/fees",
+    "folder": "Wallet",
+    "name": "Fees"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/fiattocrypto/wallet/initiate",
+    "folder": "Wallet",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/fiattocrypto/wallet/supported-pairs",
+    "folder": "Wallet",
+    "name": "Supported Pairs"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/fiattofiat/wallet/fees",
+    "folder": "Wallet",
+    "name": "Fees"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/fiattofiat/wallet/initiate",
+    "folder": "Wallet",
+    "name": "Initiate"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/exchange/fiattofiat/wallet/supported-pairs",
+    "folder": "Wallet",
+    "name": "Supported Pairs"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/mpwt/balance",
+    "folder": "Wallet",
+    "name": "Balance"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/mpwt/fees",
+    "folder": "Wallet",
+    "name": "Fees"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/mpwt/fund",
+    "folder": "Wallet",
+    "name": "Fund"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transactions",
+    "folder": "Transactions",
+    "name": "View Transaction"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/cross/fees",
+    "folder": "Wallet",
+    "name": "Fees"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/cross/single",
+    "folder": "Wallet",
+    "name": "Single"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/cross/supported-routes",
+    "folder": "Wallet",
+    "name": "Supported Routes"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/direct/bulk",
+    "folder": "Wallet",
+    "name": "Bulk Transfer (Without File Upload)"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/direct/fees",
+    "folder": "Wallet",
+    "name": "Calculate Fees"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/direct/queue",
+    "folder": "Wallet",
+    "name": "Queue"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/direct/single",
+    "folder": "Wallet",
+    "name": "Internal Transfer (Single)"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/direct/supported-currencies",
+    "folder": "Wallet",
+    "name": "Supported Currencies"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/transfer/direct/supported-network",
+    "folder": "Wallet",
+    "name": "Supported Network"
+  },
+  {
+    "method": "POST",
+    "path": "wallet/update",
+    "folder": "Wallet",
+    "name": "Name"
+  }
+]
